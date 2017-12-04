@@ -42,11 +42,13 @@ This document is intended to fullfil the requirement of the Writeup / Readme.
 ### Notebook Analysis
 #### 1. Run the functions provided in the notebook on test images (first with the test data provided, next on data you have recorded). Add/modify functions to allow for color selection of obstacles and rock samples.
 
-The Jupyter Notebook can be viewed blah blah blah
+My version of the Jupyter Notebook can be found [here](./code/Rover_Project_Test_Notebook_Jonathan.ipynb).
 
 #### 1. Populate the `process_image()` function with the appropriate analysis steps to map pixels identifying navigable terrain, obstacles and rock samples into a worldmap.  Run `process_image()` on your test data using the `moviepy` functions provided to create video output of your result. 
 
+Please see above for the link to the updated Jupyter Notebook for this project. The `process_image()` function has been updated to draw the worldmap using the simulation data that I recorded in the Unity RoverSim application. 
 
+The video of the results can be seen [here](./output/test_mapping_jonathan.mp4).
 
 ### Autonomous Navigation and Mapping
 
