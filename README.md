@@ -6,12 +6,14 @@
 
 ![alt text][image_0]
 
-## This repository contains my solution to Project 1 / Search and Sample Return for the Udacity Robotics Software Engineering Nanodegree. The base repository for this project can be found [here](https://github.com/udacity/RoboND-Rover-Project)
+This repository contains my solution to Project 1 / Search and Sample Return for the Udacity Robotics Software Engineering Nanodegree. The base repository for this project can be found [here](https://github.com/udacity/RoboND-Rover-Project)
 
 
 ## Performance Summary
 I recorded videos of two trial runs and uploaded them to YouTube for easy viewing:
+
 [Trial #1](https://youtu.be/wdaQHUwA1lo)
+
 [Trial #2](https://youtu.be/oprh2u0FQSQ)
 
 | Trial # | Mapped % | Fidelity % | Located Rocks | Collected Rocks | Runtime | 
